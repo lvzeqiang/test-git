@@ -1,5 +1,8 @@
 dev 1
 
+fix bug
+
+fix test bug 002
 fix bug 001
 
 继续开发需求 2
